@@ -1,7 +1,7 @@
 # Hands on Python Data Structures
 
 ## Overview
-This project explores the foundational data structures in Python—**lists**, **dictionaries**, and **tuples**—through practical, hands-on tasks. It was created as part of the Cognizant Externship – Python Fundamentals program.
+This project explores the foundational data structures in Python including **lists**, **dictionaries**, and **tuples**. This is done through practical, hands-on tasks. It was created as part of the Cognizant Externship – Python Fundamentals program.
 
 ## Tasks Covered
 
